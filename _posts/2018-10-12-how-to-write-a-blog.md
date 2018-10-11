@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Jekyll!"
+author: "lichun"
 ---
 
 # Welcome
